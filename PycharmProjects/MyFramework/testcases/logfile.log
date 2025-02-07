@@ -1,0 +1,41 @@
+2024-07-31 16:52:36,200 :INFO : test_e2e :This is list of items
+2024-07-31 16:52:36,316 :INFO : test_e2e :found blackberry and added in cart
+2024-07-31 16:54:25,888 :INFO : test_e2e :Getting all cart items
+2024-07-31 16:54:25,900 :INFO : test_e2e :This is final items
+2024-07-31 16:54:26,006 :INFO : test_e2e :found blackberry and added in cart
+2024-08-09 11:19:04,697 :INFO : test_formSubmission :first name isshruti
+2024-08-09 11:19:05,358 :INFO : test_formSubmission :first name issk
+2024-08-09 11:19:05,358 :INFO : test_formSubmission :first name issk
+2024-08-09 11:19:10,813 :INFO : test_e2e :Getting all cart items
+2024-08-09 11:19:10,824 :INFO : test_e2e :This is final items
+2024-08-09 11:19:10,910 :INFO : test_e2e :found blackberry and added in cart
+2024-08-09 12:06:14,648 :INFO : test_formSubmission :first name isshruti
+2024-08-09 12:06:15,290 :INFO : test_formSubmission :first name issk
+2024-08-09 12:06:15,290 :INFO : test_formSubmission :first name issk
+2024-08-09 12:06:20,536 :INFO : test_e2e :Getting all cart items
+2024-08-09 12:06:20,549 :INFO : test_e2e :This is final items
+2024-08-09 12:06:20,632 :INFO : test_e2e :found blackberry and added in cart
+2024-08-09 13:48:23,278 :INFO : test_formSubmission :first name isshruti
+2024-08-09 13:48:23,971 :INFO : test_formSubmission :first name issk
+2024-08-09 13:48:23,971 :INFO : test_formSubmission :first name issk
+2024-08-09 13:48:29,553 :INFO : test_e2e :Getting all cart items
+2024-08-09 13:48:29,566 :INFO : test_e2e :This is final items
+2024-08-09 13:48:29,686 :INFO : test_e2e :found blackberry and added in cart
+2024-08-09 13:48:44,107 :INFO : test_formSubmission :first name isshruti
+2024-08-09 13:48:44,839 :INFO : test_formSubmission :first name issk
+2024-08-09 13:48:44,839 :INFO : test_formSubmission :first name issk
+2024-08-09 13:48:50,342 :INFO : test_e2e :Getting all cart items
+2024-08-09 13:48:50,355 :INFO : test_e2e :This is final items
+2024-08-09 13:48:50,502 :INFO : test_e2e :found blackberry and added in cart
+2024-08-09 14:09:45,985 :INFO : test_formSubmission :first name isshruti
+2024-08-09 14:09:46,730 :INFO : test_formSubmission :first name issk
+2024-08-09 14:09:46,730 :INFO : test_formSubmission :first name issk
+2024-08-09 14:09:52,549 :INFO : test_e2e :Getting all cart items
+2024-08-09 14:09:52,560 :INFO : test_e2e :This is final items
+2024-08-09 14:09:52,696 :INFO : test_e2e :found blackberry and added in cart
+2025-02-02 14:26:55,641 :INFO : test_formSubmission :first name isshruti
+2025-02-02 14:26:56,454 :INFO : test_formSubmission :first name issk
+2025-02-02 14:26:56,454 :INFO : test_formSubmission :first name issk
+2025-02-02 21:42:10,833 :INFO : test_formSubmission :first name isshruti
+2025-02-02 21:42:11,745 :INFO : test_formSubmission :first name issk
+2025-02-02 21:42:11,745 :INFO : test_formSubmission :first name issk
