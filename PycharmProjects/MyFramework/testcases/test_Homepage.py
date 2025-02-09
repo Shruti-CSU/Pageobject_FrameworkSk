@@ -44,9 +44,9 @@ class TestHomepage(BaseClass):
         return request.param
 
     #Error in below block
-    #@pytest.fixture(params=exceldemo.getTestData("TestCase2"))
-    #def getData(self, request):
-        #return request.param
+    @pytest.fixture(params=exceldemo.getTestData("TestCase2"))
+    def getData(self, request):
+        return request.param
 
 
 
