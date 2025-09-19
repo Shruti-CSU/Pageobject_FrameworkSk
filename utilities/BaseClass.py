@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-@pytest.mark.usefixtures("lunchbrowser")
+@pytest.mark.usefixtures("PracticeTest1")
 
 class BaseClass:
 

@@ -16,3 +16,9 @@
 2024-08-08 15:10:17,120 :INFO : test_e2e :Getting all cart items
 2024-08-08 15:10:17,136 :INFO : test_e2e :This is final items
 2024-08-08 15:10:17,248 :INFO : test_e2e :found blackberry and added in cart
+2025-09-17 15:33:54,624 :INFO : test_formSubmission :first name isshruti
+2025-09-17 15:33:55,311 :INFO : test_formSubmission :first name issk
+2025-09-17 15:33:55,311 :INFO : test_formSubmission :first name issk
+2025-09-17 15:34:00,692 :INFO : test_e2e :Getting all cart items
+2025-09-17 15:34:00,692 :INFO : test_e2e :This is final items
+2025-09-17 15:34:00,823 :INFO : test_e2e :found blackberry and added in cart
