@@ -24,7 +24,7 @@ def invokebrowser(request):
 
     request.cls.driver = driver
     yield
-    driver.close()
+    driver.quit()
 
 # Practice Test 2
 @pytest.fixture(scope="class")
@@ -36,7 +36,7 @@ def lunchbrowser(request):
 
     request.cls.driver = driver
     yield
-    driver.close()
+    driver.quit()
 
 # Practice Test 3
 @pytest.fixture(scope="class")
@@ -48,4 +48,13 @@ def PracticeTest1(request):
 
     request.cls.driver = driver
     yield
-    driver.close()
+    driver.quit()
+
+@pytest.fixture(scope="class")
+def openbrowser(request):
+    driver = webdriver.Chrome()
+    driver.get("https://automationteststore.com/")
+    driver.maximize_window()
+    request.cls.driver = driver
+    yield
+    driver.quit()

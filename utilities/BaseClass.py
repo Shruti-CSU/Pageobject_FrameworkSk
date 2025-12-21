@@ -7,14 +7,14 @@ from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
 
-@pytest.mark.usefixtures("PracticeTest1")
+@pytest.mark.usefixtures("openbrowser")
 
 class BaseClass:
 
     def getLogger(self):
         loggerName = inspect.stack()[1][3]
         logger = logging.getLogger(loggerName)
-        fileHandler = logging.FileHandler('logfile.log')
+        fileHandler = logging.FileHandler('logfile1.log')
         formatter = logging.Formatter("%(asctime)s :%(levelname)s : %(name)s :%(message)s")
         fileHandler.setFormatter(formatter)
 

@@ -1,9 +1,0 @@
-2024-04-11 16:54:50,457 : INFO : pytestDemo.test_logging : Information Statement
-2024-04-11 16:54:50,458 : WARNING : pytestDemo.test_logging : Warning Message
-2024-04-11 16:54:50,458 : ERROR : pytestDemo.test_logging : This is the error in script
-2024-04-11 16:54:50,458 : CRITICAL : pytestDemo.test_logging : This is critical blocker in script
-2024-04-12 12:36:31,781 : ERROR : pytestDemo.BaseClass : Patel
-2024-04-19 14:21:16,276 : WARNING : pytestDemo.test_logging : Warning Message
-2024-04-19 14:21:16,276 : ERROR : pytestDemo.test_logging : This is the error in script
-2024-04-19 14:21:16,276 : CRITICAL : pytestDemo.test_logging : This is critical blocker in script
-2025-02-04 15:09:46,895 : ERROR : pytestDemo.BaseClass : Patel

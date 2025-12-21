@@ -22,3 +22,6 @@
 2025-09-17 15:34:00,692 :INFO : test_e2e :Getting all cart items
 2025-09-17 15:34:00,692 :INFO : test_e2e :This is final items
 2025-09-17 15:34:00,823 :INFO : test_e2e :found blackberry and added in cart
+2025-12-17 14:32:21,178 : WARNING : pytestDemo.test_logging : Warning Message
+2025-12-17 14:32:21,179 : ERROR : pytestDemo.test_logging : This is the error in script
+2025-12-17 14:32:21,179 : CRITICAL : pytestDemo.test_logging : This is critical blocker in script
